@@ -1,0 +1,24 @@
+{
+    "name": "db/pipe-sample",
+    "description": "DB| example files.",
+    "authors": [
+        {
+            "name": "Chris Hansen",
+            "email": "chris@iviking.org",
+            "homepage": "http://www.iviking.org/",
+            "role": "Creator"
+        }
+    ],
+    "license": "Apache-2.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yodarunamok/dbp-php.git"
+        }
+    ],
+    "require": {
+        "DB/Pipe": "master",
+        "php": ">7"
+    },
+    "minimum-stability": "dev"
+}

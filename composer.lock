@@ -1,0 +1,46 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c171144710b46742c763b034cdd4ec9a",
+    "packages": [
+        {
+            "name": "DB/Pipe",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/yodarunamok/dbp-php.git",
+                "reference": "6e4354d7c77634162460e9c92686fb198f7ea84f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/yodarunamok/dbp-php/zipball/6e4354d7c77634162460e9c92686fb198f7ea84f",
+                "reference": "6e4354d7c77634162460e9c92686fb198f7ea84f",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "DB\\": "lib"
+                }
+            },
+            "support": {
+                "source": "https://github.com/yodarunamok/dbp-php/tree/master",
+                "issues": "https://github.com/yodarunamok/dbp-php/issues"
+            },
+            "time": "2017-09-21T18:00:00+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">7"
+    },
+    "platform-dev": []
+}
