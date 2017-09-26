@@ -18,7 +18,8 @@
     ],
     "require": {
         "DB/Pipe": "master",
-        "php": ">7"
+        "php": ">5.3",
+        "phpunit/phpunit": "^6.3"
     },
     "minimum-stability": "dev"
 }
